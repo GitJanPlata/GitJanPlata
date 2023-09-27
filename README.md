@@ -4,9 +4,8 @@
 
 # Hello! I'm Jan :wave:
 
-I am a junior full-stack developer, specialized in creating interactive web applications and implementing software infrastructures. My main focus is on developing attractive and functional user interfaces on the front-end. While I also have some basic knowledge in Backend, my main focus is on creating exceptional user experiences and optimizing development and deployment processes.
+I am a junior full-stack developer, for now I specialize in creating interactive web applications and implementing software infrastructures. My main focus is on developing attractive and functional user interfaces on the front-end. While I also have some basic knowledge in Backend, my main focus is on creating exceptional user experiences and optimizing development and deployment processes.
 
-<!-- Actualmente trabajo como [título del trabajo] en [nombre de la empresa]. -->
 
 ## My Skills
 
