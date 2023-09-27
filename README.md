@@ -45,7 +45,7 @@ I am a junior full-stack developer, specialized in creating interactive web appl
 </picture>
 </div>
 
-## Do you want to collaborate on a project?
+## Do you want to contact me?
 If you're looking for a Frontend or Full-stack developer to collaborate on a project, 
 I'm interested in working on exciting projects. If you have a project you think 
 I could be useful for, don't hesitate to contact me! I'm available for both 
