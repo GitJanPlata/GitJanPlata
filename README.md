@@ -51,7 +51,4 @@ I could be useful for, don't hesitate to contact me! I'm available for both
 full-time and part-time work. You can find more information about me on my 
 <a href="https://janplata.vercel.app" target="_blank">personal website</a> or on my <a href="https://www.linkedin.com/in/janplata/" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn profile</a>. 
 
-<div align="center"> 
-  <h2>View counter for my profile</h2><br>
-  <img src="https://profile-counter.glitch.me/GitJanPlata/count.svg" />
-</div>
+
