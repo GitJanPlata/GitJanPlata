@@ -13,7 +13,7 @@ I am a full-stack developer, for now I specialize in creating interactive web ap
 	
 | **Frontend** | **Backend** | **DevOps** |
 |--------------|-------------|------------|
-|  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=react,angular,ts&theme=light&perline=4">  | <img alt="Iconos Backend" src="https://skillicons.dev/icons?i=net,cs,java&theme=light&perline=4"> |  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=docker,git&theme=light&perline=4"> |
+|  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=react,angular,ts,astro&theme=light&perline=4">  | <img alt="Iconos Backend" src="https://skillicons.dev/icons?i=net,cs,java&theme=light&perline=4"> |  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=docker,git&theme=light&perline=4"> |
 
 </div>
 	
