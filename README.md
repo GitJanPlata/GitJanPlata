@@ -34,7 +34,7 @@ I am a junior full-stack developer, for now I specialize in creating interactive
 
 ## Do you want to contact me?
 If you're looking for a Frontend or Full-stack developer to collaborate on a project, 
-I'm interested in working on exciting projects. If you have a project you think 
+I'm interested in working on new exciting projects & ideas. If you have a project you think 
 I could be useful for, don't hesitate to contact me! I'm available for both 
 full-time and part-time work. You can find more information about me on my 
 <a href="https://janplata.vercel.app" target="_blank">personal website</a> or on my <a href="https://www.linkedin.com/in/janplata/" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn profile</a>. 
