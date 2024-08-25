@@ -30,18 +30,6 @@ I am a junior full-stack developer, for now I specialize in creating interactive
 />
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gitjanplata&show_icons=true" alt="My GitHub Stats"/>
 </picture>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjanplata&layout=compact&langs_count=10&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjanplata&layout=compact&langs_count=10&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjanplata&layout=compact&langs_count=10" alt="Most Used Lenguages"/>
-</picture>
 </div>
 
 ## Do you want to contact me?
