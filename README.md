@@ -16,21 +16,6 @@ I am a full-stack developer, for now I specialize in creating interactive web ap
 |  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=react,angular,ts,astro&theme=light&perline=4">  | <img alt="Iconos Backend" src="https://skillicons.dev/icons?i=net,cs,java&theme=light&perline=4"> |  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=docker,git&theme=light&perline=4"> |
 
 </div>
-	
-## GitHub Stats and Most Used Languages
-<div align="center">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=gitjanplata&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=gitjanplata&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gitjanplata&show_icons=true" alt="My GitHub Stats"/>
-</picture>
-</div>
 
 ## Do you want to contact me?
 If you're looking for a Frontend or Full-stack developer to collaborate on a project, 
